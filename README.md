@@ -28,7 +28,6 @@ This is a chatbot that uses the Twilio API to send and receive messages via What
 **Install the necessary libraries**: You will need to install the Twilio and OpenAI libraries in order to use their APIs in your chatbot.
 
 **Set up your chatbot**: You will need to create a chatbot using the OpenAI GPT-3 language model and integrate it with the Twilio API.
-![27fdb59e-c389-4eaf-87d6-adeddedce0c7](https://user-images.githubusercontent.com/86008519/230556756-729322c8-ffb1-448d-8352-9bc1a8720385.jpg)
 
 **Test your chatbot**: Once you have set up your chatbot, you can test it by sending and receiving messages through the WhatsApp sandbox.
 
