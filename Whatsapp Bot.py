@@ -21,7 +21,7 @@ def get_openai_response(incoming_msg):
         presence_penalty=0
     )
     return response.choices[0].text.strip()
-@app.route('/boty', methods=['POST'])
+@app.route('/cb', methods=['POST'])
 def bot():
     incoming_msg = request.values.get('Body', '').lower()
     resp = MessagingResponse()
